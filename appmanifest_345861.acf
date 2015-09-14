@@ -1,0 +1,55 @@
+Array
+(
+    [345861] => Array
+        (
+            [name] => Super Galaxy Squadron Content
+            [manifests] => Array
+                (
+                    [public] => 423762107990288961
+                )
+
+            [maxsize] => 37158277
+            [encryptedmanifests] => Array
+                (
+                    [beta] => Array
+                        (
+                            [encrypted_gid] => 66EA3F62CB5BEC994FF036ECDEB60ECB5D8B57B3CFACA9A71226DDA9E4ED385FBB4CCFB5709879077752EA3285DDDC77F601268B
+                            [encrypted_size] => 54888759FB88D77D4D021256D3D0F1A45D8B57B3CFACA9A71226DDA9E4ED385FFA5948D33AD85B6BEE3DC47E62F7D5ADA8198344
+                            [encrypted_gid_2] => 58F95A4FA505C028C703386DF0EE5460
+                            [encrypted_size_2] => B36A5117C358D25178D3DB8708CC92AA
+                        )
+
+                )
+
+        )
+
+    [384270] => Array
+        (
+            [name] => Super Galaxy Squadron Soundtrack (384270) Depot
+            [manifests] => Array
+                (
+                    [public] => 4416641798200808674
+                )
+
+            [maxsize] => 59590691
+            [dlcappid] => 384270
+        )
+
+    [branches] => Array
+        (
+            [public] => Array
+                (
+                    [buildid] => 701815
+                )
+
+            [beta] => Array
+                (
+                    [buildid] => 764171
+                    [description] => 
+                    [pwdrequired] => 1
+                    [pwdtestgid] => 8C05FA8B7577808BCF5FAC9055F31C4C5D8B57B3CFACA9A71226DDA9E4ED385FF1FD0361AB54AA93DCA633052F6562DBDA3056DA
+                )
+
+        )
+
+)
